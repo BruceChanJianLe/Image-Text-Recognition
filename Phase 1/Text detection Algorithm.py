@@ -126,6 +126,7 @@ for i in indices:
             end_x = int(end_x + dX / 2)
             start_y = int(start_y - dY / 2)
             end_y = int(end_y + dY / 2)
+            
             # Draw the ROI
             cv2.rectangle(ori, (start_x, start_y), (end_x, end_y), (0, 255, 0), 2)
 
