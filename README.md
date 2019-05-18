@@ -14,6 +14,7 @@ You will need at least OpenCV 3.4.5 or OpenCV 4 to implement the algorithm.
 During Phase 2, I used Tesseract v4 to obtain the text in the image and then maps the text back to the image. Do note that the process of installing Tesseract is needed.
 
 For reference: https://stackoverflow.com/questions/51677283/tesseractnotfounderror-tesseract-is-not-installed-or-its-not-in-your-path
+https://github.com/argman/EAST
 
 ### Using the algorithm
 
